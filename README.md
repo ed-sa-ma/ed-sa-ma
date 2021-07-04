@@ -1,13 +1,7 @@
-![ed-sa-ma animated header image](./assets/github-header.svg)
+![ed-sa-ma animated header image](<./assets/github-header(draw-version).svg>)
 
-# Hola!
+<h1 align="center">
+# Welcome to my Github profile!
+</h1>
 
-Welcome to my Github profile, thanks for passing by. This is were I store my personal code, feel free to take a look.
-
-<br/>
-
-➡ &emsp; [ed.sa.ma.com](https://ed-sa-ma.com) &emsp; 💼
-<br/>
-➡ &emsp; [codepen](https://codepen.io/ed-sa-ma) &emsp; ✨
-<br/>
-➡ &emsp; [mail](mailto:ed.sanz.martin@gmail.com) &emsp; ✉️
+<p align="center"> <a href="https://ed-sa-ma.com">ed-sa-ma.com</a></p>
