@@ -1,4 +1,4 @@
-![ed-sa-ma animated header image](<./assets/github-header(draw-version).svg>)
+![ed-sa-ma animated header image](<./assets/github-header(code-drawing-sync).svg>)
 
 <h1 align="center">
 # Welcome to my Github profile!
